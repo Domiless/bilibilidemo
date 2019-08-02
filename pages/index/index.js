@@ -56,7 +56,7 @@ Page({
       }
     })
   },
-  // 
+  // 获取视频列表
   getVideosList(){
     let that = this ;
     wx.request({
